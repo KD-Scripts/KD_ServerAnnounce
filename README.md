@@ -1,6 +1,6 @@
 # KD_ServerAnnounce  
 Its is a simple script for Server Announcement With Sound  
-using commands  
+using commands in config.lua  
 dependencies interact-sound  
 https://github.com/plunkettscott/interact-sound/releases/  
 Add the .ogg Files in interact-sound/client/html/sounds  
